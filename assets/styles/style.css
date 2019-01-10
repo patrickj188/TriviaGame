@@ -11,14 +11,17 @@ html, body{
 
   #wrapper{
     margin: 2.5% auto;
-    background-color: #E94F37;
-    width: auto;
+    /* background-color: #E94F37; */
+    background-image: url(ep_naturalblack.png);
+    width: 75%;
     height: 95%;
     box-sizing: border-box;
+    color: #F6F7EB;
   }
   
   #subwrapper{
     position: relative;
+    color: #F6F7EB;
   }
   button{
     display:block;
@@ -30,6 +33,10 @@ html, body{
     background:transparent;
     font-size: 32px;
     padding: 20px 0 20px 0;
+    color: #F6F7EB;
+  }
+  #start {
+    color: black;
   }
   
   img{
@@ -41,18 +48,21 @@ html, body{
     font-family: 'Andada', serif;
     font-size: 68px;
     font-weight: bold;
-    color: black;
+    color: #F6F7EB;
     padding-top: 60px;
+
   }
   
   h2{
     font-size: 35px;
     margin-bottom: 25px;
+    color: #F6F7EB;
   }
   
   h3{
     font-size: 20px;
     margin-bottom: 10px;
+    color: #F6F7EB;
   }
   
   #start{
@@ -65,13 +75,14 @@ html, body{
   button:hover {
     background: #F6F7EB;
     border: 1px solid black;
+    color: black;
   }
 
 p {
     font-size: 35px;
     margin: 30px;
     font-family: 'Oswald', sans-serif;
-    color: black;
+    color: #F6F7EB;
   }
 
   @media screen and (max-width: 980px)  {
@@ -88,8 +99,9 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E94F37;
-      width: auto;
+      /* background-color: #E94F37; */
+      background-image: url(ep_naturalblack.png);
+      width: 75%;
       height: 95%;
       box-sizing: border-box;
     }
@@ -118,7 +130,7 @@ p {
       font-family: 'Andada', serif;
       font-size: 68px;
       font-weight: bold;
-      color: black;
+      color: #F6F7EB;
       padding-top: 60px;
     }
     
@@ -148,7 +160,7 @@ p {
       font-size: 35px;
       margin: 30px;
       font-family: 'Oswald', sans-serif;
-      color: black;
+      color: #F6F7EB;
     }
   
    
@@ -168,9 +180,10 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E94F37;
-      width:auto;
-      height: 90%;
+      /* background-color: #E94F37; */
+      background-image: url(ep_naturalblack.png);
+      width: 75%;
+      height: 95%;
       box-sizing: border-box;
     }
     
@@ -198,7 +211,7 @@ p {
       font-family: 'Andada', serif;
       font-size: 68px;
       font-weight: bold;
-      color: black;
+      color: #F6F7EB;
       padding-top: 60px;
     }
     
@@ -228,7 +241,7 @@ p {
       font-size: 35px;
       margin: 30px;
       font-family: 'Oswald', sans-serif;
-      color: black;
+      color: #F6F7EB;
     }
 
    
@@ -247,7 +260,8 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E94F37;
+      /* background-color: #E94F37; */
+      background-image: url(ep_naturalblack.png);
       width: auto;
       height: auto;
       box-sizing: border-box;
@@ -277,7 +291,7 @@ p {
       font-family: 'Andada', serif;
       font-size: 68px;
       font-weight: bold;
-      color: black;
+      color: #F6F7EB;
       padding-top: 60px;
     }
     
@@ -307,7 +321,7 @@ p {
       font-size: 35px;
       margin: 30px;
       font-family: 'Oswald', sans-serif;
-      color: black;
+      color: #F6F7EB;
     }
 
    
