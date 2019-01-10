@@ -2,7 +2,6 @@ var quizArea =$('#quiz-area');
 var countStartNumber = 30;
 
 
-
 $(document).on('click', '#start-over', function(e){
     game.reset(e);
 });
