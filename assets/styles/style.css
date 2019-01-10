@@ -3,7 +3,7 @@ html, body{
   }
   
   body{
-    background-color: #A0A6AC;
+    background-color: #F6F7EB;
     text-align: center;
     border-bottom: 1px solid black;
   
@@ -11,9 +11,9 @@ html, body{
   
   #wrapper{
     margin: 2.5% auto;
-    background-color: #E86370;
+    background-color: #E94F37;
     width: auto;
-    height: 90%;
+    height: 95%;
     box-sizing: border-box;
   }
   
@@ -57,13 +57,13 @@ html, body{
   
   #start{
     margin-top: 5%;
-    background: #A0A6AC;
+    background: #F6F7EB;
     border: 1px solid black;
     font-family: 'Andada', serif;
   }
 
   button:hover {
-    background: #A0A6AC;
+    background: #F6F7EB;
     border: 1px solid black;
   }
 
@@ -80,7 +80,7 @@ p {
     }
     
     body{
-      background-color: #A0A6AC;
+      background-color: #F6F7EB;
       text-align: center;
       border-bottom: 1px solid black;
     
@@ -88,9 +88,9 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E86370;
+      background-color: #E94F37;
       width: auto;
-      height: 90%;
+      height: 95%;
       box-sizing: border-box;
     }
     
@@ -134,13 +134,13 @@ p {
     
     #start{
       margin-top: 5%;
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
       font-family: 'Andada', serif;
     }
   
     button:hover {
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
     }
   
@@ -154,13 +154,13 @@ p {
    
   }
 
-  @media screen and (max-width:  768px)  {
+  @media screen and (max-width: 960px)  {
     html, body{
       height:100%;
     }
     
     body{
-      background-color: #A0A6AC;
+      background-color: #F6F7EB;
       text-align: center;
       border-bottom: 1px solid black;
     
@@ -168,7 +168,7 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E86370;
+      background-color: #E94F37;
       width:auto;
       height: 90%;
       box-sizing: border-box;
@@ -214,13 +214,13 @@ p {
     
     #start{
       margin-top: 5%;
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
       font-family: 'Andada', serif;
     }
   
     button:hover {
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
     }
   
@@ -239,7 +239,7 @@ p {
     }
     
     body{
-      background-color: #A0A6AC;
+      background-color: #F6F7EB;
       text-align: center;
       border-bottom: 1px solid black;
     
@@ -247,7 +247,7 @@ p {
     
     #wrapper{
       margin: 2.5% auto;
-      background-color: #E86370;
+      background-color: #E94F37;
       width: auto;
       height: auto;
       box-sizing: border-box;
@@ -293,13 +293,13 @@ p {
     
     #start{
       margin-top: 5%;
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
       font-family: 'Andada', serif;
     }
   
     button:hover {
-      background: #A0A6AC;
+      background: #F6F7EB;
       border: 1px solid black;
     }
   
