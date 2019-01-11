@@ -31,7 +31,7 @@ html, body{
     border:none;
     cursor: pointer;
     background:transparent;
-    font-size: 32px;
+    font-size: 28px;
     padding: 20px 0 20px 0;
     color: #F6F7EB;
   }
@@ -85,7 +85,7 @@ p {
     color: #F6F7EB;
   }
 
-  @media screen and (max-width: 980px)  {
+  @media screen and (max-width: 1000px)  {
     html, body{
       height:100%;
     }
@@ -117,7 +117,7 @@ p {
       border:none;
       cursor: pointer;
       background:transparent;
-      font-size: 32px;
+      font-size: 28px;
       padding: 20px 0 20px 0;
     }
     
@@ -166,7 +166,7 @@ p {
    
   }
 
-  @media screen and (max-width: 780px)  {
+  @media screen and (max-width: 900px)  {
     html, body{
       height:100%;
     }
@@ -198,7 +198,7 @@ p {
       border:none;
       cursor: pointer;
       background:transparent;
-      font-size: 32px;
+      font-size: 18px;
       padding: 20px 0 20px 0;
     }
     
@@ -216,7 +216,7 @@ p {
     }
     
     h2{
-      font-size: 35px;
+      font-size: 20px;
       margin-bottom: 25px;
     }
     
@@ -263,7 +263,7 @@ p {
       /* background-color: #E94F37; */
       background-image: url(ep_naturalblack.png);
       width: auto;
-      height: auto;
+      height: 100%;
       box-sizing: border-box;
     }
     
@@ -278,7 +278,7 @@ p {
       border:none;
       cursor: pointer;
       background:transparent;
-      font-size: 32px;
+      font-size: 20px;
       padding: 20px 0 20px 0;
     }
     
@@ -318,7 +318,7 @@ p {
     }
   
   p {
-      font-size: 35px;
+      font-size: 20px;
       margin: 30px;
       font-family: 'Oswald', sans-serif;
       color: #F6F7EB;
