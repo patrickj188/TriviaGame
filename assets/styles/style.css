@@ -105,7 +105,7 @@ p {
       height: 95%;
       box-sizing: border-box;
     }
-    
+
     #subwrapper{
       position: relative;
     }
@@ -166,7 +166,7 @@ p {
    
   }
 
-  @media screen and (max-width: 760px)  {
+  @media screen and (max-width: 780px)  {
     html, body{
       height:100%;
     }
@@ -246,7 +246,7 @@ p {
 
    
   }
-  @media screen and (max-width:  540px)  {
+  @media screen and (max-width:  600px)  {
     html, body{
       height:100%;
     }
